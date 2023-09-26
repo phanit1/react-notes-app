@@ -16,7 +16,7 @@ function App() {
   };
 
   return (
-    <div style={{backgroundColor:"cyan"}}>
+    <div>
       <div align="center">
       <h1>REACT NOTES APP</h1>
       <br />
